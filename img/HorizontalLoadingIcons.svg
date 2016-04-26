@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Artboard_1_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 988.5 710.1" style="enable-background:new 0 0 988.5 710.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st4{font-family:'FiraSans-Light';}
+	.st5{font-size:16px;}
+	.st6{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st7{font-size:12px;}
+	.st8{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g id="Loading_1">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="550.4836" y1="70.1811" x2="416.3761" y2="252.5142">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</linearGradient>
+	<path class="st0" d="M459.4,42.2v13c55.1,0.1,99.8,44.8,99.8,99.9c0,55.2-44.7,99.9-99.9,99.9c-18.8,0-36.4-5.2-51.5-14.3h-22.3
+		c19.8,17.1,45.6,27.5,73.9,27.5c62.4,0,113-50.6,113-113S521.8,42.2,459.4,42.2z"/>
+</g>
+<g id="Loading_2">
+	<g>
+		<polygon class="st1" points="59.1,327.2 57.4,327.2 57.4,337.2 75.4,337.2 75.4,335.5 59.1,335.5 		"/>
+		<polygon class="st1" points="57.4,302.2 57.4,313.2 59.1,313.2 59.1,303.9 75.4,303.9 75.4,302.2 		"/>
+	</g>
+	<g>
+		<polygon class="st1" points="158.7,327.2 160.4,327.2 160.4,337.2 142.3,337.2 142.3,335.5 158.7,335.5 		"/>
+		<polygon class="st1" points="160.4,302.2 160.4,313.2 158.7,313.2 158.7,303.9 142.3,303.9 142.3,302.2 		"/>
+	</g>
+	<rect x="54.4" y="350.2" class="st2" width="880" height="34"/>
+	<rect x="62.4" y="358.2" class="st1" width="751" height="17"/>
+	<text transform="matrix(1 0 0 1 79.3852 325.1743)" class="st3 st4 st5">LOADING</text>
+</g>
+<g id="Loading_3">
+	<line class="st2" x1="55.4" y1="495.2" x2="473.4" y2="495.2"/>
+	<line class="st2" x1="516.4" y1="495.2" x2="934.4" y2="495.2"/>
+	<circle class="st2" cx="494.9" cy="496" r="21.5"/>
+	<circle class="st1" cx="494.8" cy="496.9" r="8.4"/>
+	<line class="st2" x1="55.7" y1="482.2" x2="56.1" y2="510.2"/>
+	<line class="st6" x1="934.2" y1="482.2" x2="934.6" y2="510.2"/>
+	<polygon class="st6" points="494.4,524.8 499.4,531.8 501.3,531.8 494.4,522.2 487.4,531.8 489.4,531.8 	"/>
+	<text transform="matrix(1 0 0 1 483.1352 543.3491)" class="st1 st4 st7">50%</text>
+</g>
+<g id="Loading_4">
+	<line class="st6" x1="57.4" y1="614.2" x2="57.7" y2="642.2"/>
+	<line class="st6" x1="936.9" y1="614.2" x2="937.2" y2="642.2"/>
+	<line class="st8" x1="57.5" y1="627.2" x2="599.1" y2="627.2"/>
+	<line class="st6" x1="57.5" y1="627.2" x2="937.1" y2="627.2"/>
+</g>
+</svg>
