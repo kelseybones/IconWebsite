@@ -53,11 +53,9 @@ body {
   color: deepskyblue;
 }
 .section-one {
-  height: 800px;
   margin-top: 80px;
+  padding: 30px;
   background-color: black;
-  background: url(img/hero.png) center center;
-  background-size: cover;
 }
 .section-two {
   height: 100vh;
