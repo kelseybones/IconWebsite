@@ -84,6 +84,11 @@ body {
   font-size: 1.3em;
   color: white;
 }
-.section-three {
+.section-three .img-container {
+  max-width: 600px;
   padding: 20px;
+  margin-bottom: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
