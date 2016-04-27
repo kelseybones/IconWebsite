@@ -100,6 +100,7 @@ body {
 }
 .container img {
   max-width: 100%;
+  padding-bottom: 5px;
 }
 .container h1 {
   font-size: 3em;
@@ -107,6 +108,7 @@ body {
 }
 .container h2 {
   font-family: FiraSansHair;
+  font-weight: 100;
   font-size: 2em;
   padding-bottom: 50px;
 }
