@@ -51,6 +51,7 @@ body {
   text-transform: uppercase;
   text-decoration: none;
   padding: 0 10px;
+  transition: color 0.5s ease;
 }
 .header nav a:hover {
   color: deepskyblue;
@@ -119,6 +120,7 @@ body {
   font-size: 1.5em;
   color: white;
   text-decoration: none;
+  transition: color 0.5s ease;
 }
 .container ul a:hover {
   color: deepskyblue;
